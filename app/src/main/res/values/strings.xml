@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UTS_32927</string>
+    <string name="textview">IniMain</string>
+    <string name="button">Button</string>
+    <string name="singer">Singer</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="audio">Audio</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="judul">Judul</string>
+    <string name="pause">Pause</string>
+    <string name="artist">Artist</string>
+    <string name="musix">MusiX</string>
+    <string name="todos">TODOs</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nama_kevin_andreejan_susanto">Nama : Kevin Andreejan Susanto</string>
+    <string name="nim_00000032927">NIM : 00000032927</string>
+    <string name="kelas_bl">Kelas : BL</string>
+    <string name="referensi">Referensi :</string>
+    <string name="https_www_youtube_com_watch_v_jnrxk08bllo_list_pltzcxnkzv4_epnfdfjxdddkjoez5snnry"><![CDATA[https://www.youtube.com/watch?v=JnRxk08BLLo&list=PLtZcxNkZv4_ePnfDFjXDddkjoez5SNnrY]]></string>
+    <string name="https_www_youtube_com_watch_v_kf2fxyloiso_t_128s"><![CDATA[https://www.youtube.com/watch?v=kf2fxYLOiSo&t=128s]]></string>
+    <string name="https_github_com_gauravw0407_recyclerview_tree_master_app_src_main_res_layout">https://github.com/gauravw0407/RecyclerView/tree/master/app/src/main/res/layout</string>
+    <string name="https_www_youtube_com_watch_v_ox5rtl1yvm0">https://www.youtube.com/watch?v=ox5RTl1Yvm0</string>
+    <string name="https_www_youtube_com_watch_v_ph3ek6cls4m">https://www.youtube.com/watch?v=Ph3Ek6cLS4M</string>
+    <string name="please_login">Please Login !</string>
+    <string name="title_activity_play_listing">PlayListing</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
